@@ -1,9 +1,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/Mogakamo/Digital-Clock)](https://github.com/Mogakamo/Digital-Clock/issues)
-
 [![GitHub forks](https://img.shields.io/github/forks/Mogakamo/Digital-Clock)](https://github.com/Mogakamo/Digital-Clock/network)
-
 [![GitHub stars](https://img.shields.io/github/stars/Mogakamo/Digital-Clock)](https://github.com/Mogakamo/Digital-Clock/stargazers)
-
 [![GitHub license](https://img.shields.io/github/license/Mogakamo/Digital-Clock)](https://github.com/Mogakamo/Digital-Clock)
 
 
