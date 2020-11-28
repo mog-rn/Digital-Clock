@@ -2,7 +2,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/Mogakamo/Digital-Clock)](https://github.com/Mogakamo/Digital-Clock/network)
 [![GitHub stars](https://img.shields.io/github/stars/Mogakamo/Digital-Clock)](https://github.com/Mogakamo/Digital-Clock/stargazers)
 [![GitHub license](https://img.shields.io/github/license/Mogakamo/Digital-Clock)](https://github.com/Mogakamo/Digital-Clock)
-!Open Source(https://img.shields.io/badge/open--source-yes-orange)
 
 <h1 style="center">Digital-Clock</h1>
 made with javascript 
