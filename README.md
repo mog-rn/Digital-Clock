@@ -8,4 +8,4 @@ made with javascript
 
 
 
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fm_ogakadev)](https://twitter.com/intent/tweet?text=This is fantastic:&url=https%3A%2F%2Fgithub.com%2FMogakamo%2FDigital-Clock%2F)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fm_ogakadev)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FMogakamo%2FDigital-Clock%2F)
